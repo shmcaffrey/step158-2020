@@ -1,7 +1,9 @@
-This directory is where you'll write all of your code!
+# ACCIO!
 
-By default it contains a barebones web app. To run a local server, execute this
-command:
+A webapp that enables image-object extraction in the form of masks as png files. 
+
+Tools include: 
+Flood Fill, Scribble Fill, Paint Brush, Eraser, Zoom and pan, etc. 
 
 ```bash
 mvn package appengine:run
